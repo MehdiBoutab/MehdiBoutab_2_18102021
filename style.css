@@ -117,6 +117,9 @@ a:hover {
 .d-bloc {
   color: black;
 }
+.colorchange {
+  color: black;
+}
 
 .d-bloc button:hover {
   color: rgba(255, 255, 255, 0.9);
