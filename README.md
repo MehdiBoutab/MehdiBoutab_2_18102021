@@ -5,7 +5,7 @@
 Le code source d'un site web déjà existant nous est donné. Le but du projet est d'optimiser au maximum le référencement et les performances du site internet. Il faudra rédiger un rapport d'optimisation en comparant les performances du site avant et après optimisation.
 
 ## Visualiser le site
-Le code a été versionner sur GIT et déployé sur GITHUB [clique ici](https://mehdiboutab.github.io/MehdiBoutab_2_18102021/)
+Le code a été versionner sur GIT et déployé sur GITHUB [clique ici](https://mehdiboutab.github.io/MehdiBoutab_4_18102021/)
 ## Technologies, logiciels, outils et langages utilisés
 
     LightHouse
